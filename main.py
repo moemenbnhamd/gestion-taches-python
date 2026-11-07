@@ -54,5 +54,5 @@ def main():
         elif choix == "0":
             print("Au revoir !")
         else:
-            print("Erreur : option invalide, choisissez 1, 2, 3 ou 0.")
+            print("Err: option invalide, choisissez 1, 2, 3 ou 0.")
 main()
