@@ -24,3 +24,5 @@ Tout le code se trouve dans un seul fichier : `main.py`.
 2. Ouvrir `main.py`.
 3. Cliquer sur le bouton **Run Python File** (triangle en haut à droite).
 4. Utiliser le menu dans le terminal.
+test
+
